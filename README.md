@@ -4,9 +4,6 @@ Protótipo de Startap para o mercado
 ## O que é a Snowing?
 A Snowing é uma plataforma de AI-Driven Inventory & Supply Chain Optimization (Otimização de Estoque e Cadeia de Suprimentos baseada em IA).
 
-## Significado do nome: O nome vem da nossa metodologia: assim como a neve se acumula em camadas finas para formar uma estrutura sólida, nossa tecnologia analisa micro-dados (clima, tendências sociais, logística local e comportamento de consumo) para criar uma visão macro e cristalina do futuro do seu negócio.
-Nós não somos um ERP. Somos o cérebro que se conecta ao seu sistema atual para dizer exatamente o que, quanto e quando comprar.
-
 ## O que resolvemos?
 Gerir estoque no "feeling" custa caro. A Snowing usa micro-dados (clima, tendências locais e comportamento de consumo) para transformar incerteza em números acionáveis.
 
