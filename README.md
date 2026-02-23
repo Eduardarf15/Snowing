@@ -1,4 +1,4 @@
-# snowing
+# Snowing
 Protótipo de Startup para o mercado
 
 ## O que é a Snowing?
