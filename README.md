@@ -1,5 +1,5 @@
 # snowing
-Protótipo de Startap para o mercado
+Protótipo de Startup para o mercado
 
 ## O que é a Snowing?
 A Snowing é uma plataforma de AI-Driven Inventory & Supply Chain Optimization (Otimização de Estoque e Cadeia de Suprimentos baseada em IA).
